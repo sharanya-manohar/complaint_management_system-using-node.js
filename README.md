@@ -1,9 +1,9 @@
 # complaint_management_system-using-node.js
-node.js+mongoDB+postmanAPI
+Node.js+Express+MongoDB+PostmanAPI
 
 # Smart City Complaint Management System
 
-This project is a web-based application designed to help residents of a smart city (like Mangalore) report and manage complaints regarding infrastructure issues such as potholes, broken streetlights, water leaks, etc. It uses modern technologies like Node.js, Express, and MongoDB to efficiently handle and prioritize complaints.
+This project is a web-based application designed to help residents of a smart city report and manage complaints regarding infrastructure issues such as potholes, broken streetlights, water leaks, etc. It uses modern technologies like Node.js, Express, and MongoDB to efficiently handle and prioritize complaints.
 
 ---
 
